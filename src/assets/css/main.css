@@ -943,6 +943,7 @@ header .scrolldown a:hover {
   padding: 0;
   border: none;
   outline: none;
+  background: #161415;
 }
 
 /* nav-wrap */

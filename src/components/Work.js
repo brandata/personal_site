@@ -11,19 +11,20 @@ const Work = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>Siemens Canada</h3>
+          <h3><u>Siemens Canada</u></h3>
+          <h4>
           <p className="info">
             Engineering Project Support
             <span>&bull;</span>
             <em className="date">March 2010 - Present</em>
           </p>
-
+          </h4>
           <h5>PLM Project</h5>
           <ul>
           <li> Part of Siemens Product Lifecycle Management (PLM) Team, tasked with improving the manufacturing and engineering efficiency of Siemens through the deployment of Siemens owned PLM software</li>
           <li> Conducted site visits and interviews in various Siemens plants to map all business and engineering processes and their associated IT/software systems</li>
           <li> Identified issues present within the business/engineering processes and uncovered root causes </li>
-          <li> &bull; Aligned software solutions to business requirements, targeting high </li>
+          <li> Aligned software solutions to business requirements, targeting high potential areas first</li>
           <li> Worked with solutions team to develop a deployment plan best suited for the client’s needs </li>
           <li> Generated proposals and budgets to be used for sales purposes </li>
           </ul>
@@ -46,13 +47,34 @@ const Work = () => (
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>Super Cool Studio</h3>
+          <h3><u>University of Toronto</u></h3>
+          <h4>
           <p className="info">
-            UX Designer
+           Research Technician
             <span>&bull;</span>
-            <em className="date">March 2007 - February 2010</em>
+            <em className="date">Jan 2012 - April 2012</em>
           </p>
-
+          </h4>
+          <p>
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
+            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
+            ornare odio. Sed non mauris vitae erat
+          </p>
+        </div>
+      </div>
+<div className="row item">
+        <div className="twelve columns">
+          <h3><u>Queen's University</u></h3>
+          <h4>
+          <p className="info">
+          NSERC Researcher
+            <span>&bull;</span>
+            <em className="date">April 2011 - Sept 2011</em>
+          </p>
+          </h4>
           <p>
             This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
             velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
