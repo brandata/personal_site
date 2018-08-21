@@ -20,12 +20,12 @@ const Work = () => (
 
           <h5>PLM Project</h5>
           <ul>
-          <li> &bull; Part of Siemens Product Lifecycle Management (PLM) Team, tasked with improving the manufacturing and engineering efficiency of Siemens through the deployment of Siemens owned PLM software</li>
-          <li> &bull; Conducted site visits and interviews in various Siemens plants to map all business and engineering processes and their associated IT/software systems</li>
-          <li> &bull; Identified issues present within the business/engineering processes and uncovered root causes </li>
-          <li> &bull; Aligned software solutions to business requirements, targeting high potential areas first </li>
-          <li> &bull; Worked with solutions team to develop a deployment plan best suited for the client’s needs </li>
-          <li> &bull; Generated proposals and budgets to be used for sales purposes </li>
+          <li> Part of Siemens Product Lifecycle Management (PLM) Team, tasked with improving the manufacturing and engineering efficiency of Siemens through the deployment of Siemens owned PLM software</li>
+          <li> Conducted site visits and interviews in various Siemens plants to map all business and engineering processes and their associated IT/software systems</li>
+          <li> Identified issues present within the business/engineering processes and uncovered root causes </li>
+          <li> &bull; Aligned software solutions to business requirements, targeting high </li>
+          <li> Worked with solutions team to develop a deployment plan best suited for the client’s needs </li>
+          <li> Generated proposals and budgets to be used for sales purposes </li>
           </ul>
 
           <h5>Siemens Engineering and Technology Academy</h5>
