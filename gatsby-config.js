@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Brandon Haw"
+    title: "Brandon Haw",
     author: "Brandon Haw",
     description: "A Gatsby.js Starter based on Ceevee by Styleshout"
   },
