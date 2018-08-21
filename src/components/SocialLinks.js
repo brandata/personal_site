@@ -4,7 +4,7 @@ import {
   FaGithub,
   FaGooglePlus,
   FaInstagram,
-  FaLinkedin
+  FaLinkedin,
 } from "react-icons/lib/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
@@ -21,7 +21,7 @@ const SocialLinks = () => (
       </a>
     </li>
     <li>
-      <a href="#">
+      <a href="https://github.com/brandata" target="_blank">
         <FaGithub />
       </a>
     </li>
